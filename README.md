@@ -28,7 +28,6 @@ Power BI: Dashboard development, data modeling, and visualization.
 
 DAX: KPI calculations and analytical measures.
 
-Excel: Data inspection and validation (if used).
 
 Project Workflow
 
